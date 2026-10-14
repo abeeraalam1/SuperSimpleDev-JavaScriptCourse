@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33450900/README.md)
+
 # JavaScript — SuperSimpleDev Course Work
 
 My code from working through [SuperSimpleDev's JavaScript full course](https://www.youtube.com/@SuperSimpleDev), lessons 4–12. Each file is prefixed with its lesson number, so you can watch the same projects grow from inline `onclick` snippets into separate HTML, CSS, and JS files using the DOM, event listeners, and `localStorage`.
