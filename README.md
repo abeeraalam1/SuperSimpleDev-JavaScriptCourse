@@ -3,6 +3,7 @@
 
 My code from working through [SuperSimpleDev's JavaScript full course](https://www.youtube.com/@SuperSimpleDev), lessons 4–12. Each file is prefixed with its lesson number, so you can watch the same projects grow from inline `onclick` snippets into separate HTML, CSS, and JS files using the DOM, event listeners, and `localStorage`.
 
+**[Live demo](https://abeeraalam1.github.io/SuperSimpleDev-JavaScriptCourse/12r-rock-paper-scissor.html) **
 ## Projects
 
 ### ✊✋✌️ Rock Paper Scissors — [`12r-rock-paper-scissor.html`](12r-rock-paper-scissor.html)
